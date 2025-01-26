@@ -1,0 +1,23 @@
+{
+    "general": {
+        "random_state": 42,
+        "status": "test",
+        "datetime_format": "%d.%m.%Y_%H.%M",
+        "data_dir": "data",
+        "models_dir": "models",
+        "results_dir": "results"
+    },
+    "train": {
+        "table_name": "iris_train.csv",
+        "data_sample": 50,
+        "test_size": 0.3,
+        "batch_size": 16,
+        "learning_rate": 0.001,
+        "epochs": 20
+    },
+    "inference": {
+        "inp_table_name": "iris_inference.csv",
+        "model_name": "prod_model.pth",
+        "use_latest_model": true
+    }
+}

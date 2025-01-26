@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/Documents/Epam/MLE_basic_example/mlruns/0/6165caf3f1c24cbb98caad8bc0e035c2/artifacts
+end_time: 1737911231427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6165caf3f1c24cbb98caad8bc0e035c2
+run_name: polite-quail-953
+run_uuid: 6165caf3f1c24cbb98caad8bc0e035c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737911227158
+status: 3
+tags: []
+user_id: macbook

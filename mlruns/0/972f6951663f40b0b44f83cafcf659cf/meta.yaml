@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/Documents/Epam/MLE_basic_example/mlruns/0/972f6951663f40b0b44f83cafcf659cf/artifacts
+end_time: 1737910961233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 972f6951663f40b0b44f83cafcf659cf
+run_name: enchanting-eel-467
+run_uuid: 972f6951663f40b0b44f83cafcf659cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737910956834
+status: 3
+tags: []
+user_id: macbook

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/0/a5c1e61c2df5423096584ff64cb864cf/artifacts
+end_time: 1737911461301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5c1e61c2df5423096584ff64cb864cf
+run_name: unequaled-stork-853
+run_uuid: a5c1e61c2df5423096584ff64cb864cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737911456303
+status: 3
+tags: []
+user_id: root
